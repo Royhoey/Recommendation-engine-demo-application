@@ -5,7 +5,8 @@ created to easily browse through the recommendations made by different
 types of algorithms. It can be used on knowledge portals or other sites
 that are created with MediaWiki (https://www.mediawiki.org/wiki/MediaWiki).
 Make sure to actually generate recommendations first.
-This can be done by using the following software: LINK
+This can be done by using the following software: 
+https://github.com/Royhoey/recommender-system-knowledge-portals 
 
 == Installation instructions ==
 
