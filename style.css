@@ -1,0 +1,54 @@
+.header{	
+	background-image: url(img/skybrary_logo.png); /*insert your own logo */
+	display: block;
+	padding-left: 18px;
+	margin-left:-10px;
+	margin-top:-10px;
+	height:155px;
+	width:100%;
+	background-color:black;
+	background-repeat: no-repeat;
+}
+body{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size: 80%; 
+}
+.content{
+	margin-left:5px;
+	
+}
+
+.formlabel{
+	display:inline-block;
+	width:80px;
+}
+
+.footer{
+	background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+	font-size:80%;
+}
+table.dataTable   tr:nth-child(even) {
+    background-color: #eee;
+}
+table.dataTable   tr:nth-child(odd) {
+   background-color:#fff;
+}
+table.dataTable  th	{
+    background-color: lightgrey;
+}
+.textp{
+	width:700px;
+}
